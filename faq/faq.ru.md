@@ -467,7 +467,7 @@ ul, ol {
 
 Методология БЭМ не определяет строгих правил, устанавливающих единообразный подход по созданию блоков-хелперов. Многое зависит от конкретных реализаций и личных предпочтений разработчика. Если такой блок необходим, то можно воспользоваться [миксом](../method/key-concepts/key-concepts.ru.md#Микс).
 
-Примером такого вспомогательного блока в [bem-core](https://ru.bem.info/platform/libs/bem-core/) может служить блок `clearfix`, а в [bem-components](https://ru.bem.info/platform/libs/bem-components/) — `z-index-group`.
+Примером вспомогательного блока в [bem-core](https://ru.bem.info/platform/libs/bem-core/) может служить блок `clearfix`, а в [bem-components](https://ru.bem.info/platform/libs/bem-components/) — `z-index-group`.
 
 > Подробнее о применении миксов читайте в разделе [Стилизация групп блоков](../method/bem-for-css/bem-for-css.ru.md#Стилизация-групп-блоков).
 
